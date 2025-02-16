@@ -19,12 +19,7 @@
 
 ### 📌 Proyectos Destacados
 
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=dracula)  
+🔹 [Web de Recetas](https://github.com/alejandroarribascantero/postresRicos) - Proyecto de comida con recetas detalladas
 
 ---
 
